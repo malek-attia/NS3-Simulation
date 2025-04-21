@@ -1,0 +1,614 @@
+Creating 12 nodes
+Creating random P2P topology
+Created connection between Node 0 and Node 6 with addresses 10.1.7.1 and 10.1.7.2
+Created connection between Node 0 and Node 7 with addresses 10.1.8.1 and 10.1.8.2
+Created connection between Node 0 and Node 5 with addresses 10.1.6.1 and 10.1.6.2
+Created connection between Node 1 and Node 7 with addresses 10.2.8.1 and 10.2.8.2
+Created connection between Node 1 and Node 5 with addresses 10.2.6.1 and 10.2.6.2
+Created connection between Node 1 and Node 0 with addresses 10.2.1.1 and 10.2.1.2
+Created connection between Node 2 and Node 0 with addresses 10.3.1.1 and 10.3.1.2
+Created connection between Node 2 and Node 7 with addresses 10.3.8.1 and 10.3.8.2
+Created connection between Node 2 and Node 10 with addresses 10.3.11.1 and 10.3.11.2
+Created connection between Node 3 and Node 5 with addresses 10.4.6.1 and 10.4.6.2
+Created connection between Node 3 and Node 8 with addresses 10.4.9.1 and 10.4.9.2
+Created connection between Node 3 and Node 11 with addresses 10.4.12.1 and 10.4.12.2
+Created connection between Node 4 and Node 3 with addresses 10.5.4.1 and 10.5.4.2
+Created connection between Node 4 and Node 9 with addresses 10.5.10.1 and 10.5.10.2
+Created connection between Node 4 and Node 5 with addresses 10.5.6.1 and 10.5.6.2
+Created connection between Node 5 and Node 10 with addresses 10.6.11.1 and 10.6.11.2
+Created connection between Node 5 and Node 9 with addresses 10.6.10.1 and 10.6.10.2
+Created connection between Node 6 and Node 3 with addresses 10.7.4.1 and 10.7.4.2
+Created connection between Node 6 and Node 2 with addresses 10.7.3.1 and 10.7.3.2
+Created connection between Node 6 and Node 11 with addresses 10.7.12.1 and 10.7.12.2
+Created connection between Node 7 and Node 5 with addresses 10.8.6.1 and 10.8.6.2
+Created connection between Node 7 and Node 3 with addresses 10.8.4.1 and 10.8.4.2
+Created connection between Node 7 and Node 8 with addresses 10.8.9.1 and 10.8.9.2
+Created connection between Node 8 and Node 5 with addresses 10.9.6.1 and 10.9.6.2
+Created connection between Node 8 and Node 1 with addresses 10.9.2.1 and 10.9.2.2
+Created connection between Node 8 and Node 9 with addresses 10.9.10.1 and 10.9.10.2
+Created connection between Node 9 and Node 7 with addresses 10.10.8.1 and 10.10.8.2
+Created connection between Node 9 and Node 0 with addresses 10.10.1.1 and 10.10.1.2
+Created connection between Node 9 and Node 6 with addresses 10.10.7.1 and 10.10.7.2
+Created connection between Node 10 and Node 6 with addresses 10.11.7.1 and 10.11.7.2
+Created connection between Node 10 and Node 3 with addresses 10.11.4.1 and 10.11.4.2
+Created connection between Node 10 and Node 1 with addresses 10.11.2.1 and 10.11.2.2
+Created connection between Node 11 and Node 1 with addresses 10.12.2.1 and 10.12.2.2
+Created connection between Node 11 and Node 9 with addresses 10.12.10.1 and 10.12.10.2
+Node 0 has 3 peer addresses for 3 connections
+Node 1 has 3 peer addresses for 3 connections
+Node 2 has 3 peer addresses for 3 connections
+Node 3 has 3 peer addresses for 3 connections
+Node 4 has 3 peer addresses for 3 connections
+Node 5 has 2 peer addresses for 2 connections
+Node 6 has 3 peer addresses for 3 connections
+Node 7 has 3 peer addresses for 3 connections
+Node 8 has 3 peer addresses for 3 connections
+Node 9 has 3 peer addresses for 3 connections
+Node 10 has 3 peer addresses for 3 connections
+Node 11 has 2 peer addresses for 2 connections
+Node 0 configured to send shares to 3 peers
+Node 1 configured to send shares to 3 peers
+Node 2 configured to send shares to 3 peers
+Node 3 configured to send shares to 3 peers
+Node 4 configured to send shares to 3 peers
+Node 5 configured to send shares to 2 peers
+Node 6 configured to send shares to 3 peers
+Node 7 configured to send shares to 3 peers
+Node 8 configured to send shares to 3 peers
+Node 9 configured to send shares to 3 peers
+Node 10 configured to send shares to 3 peers
+Node 11 configured to send shares to 2 peers
+Running simulation for 30 seconds
+Node 0 receiver started at port 9000
+Node 1 receiver started at port 9001
+Node 2 receiver started at port 9002
+Node 3 receiver started at port 9003
+Node 4 receiver started at port 9004
+Node 5 receiver started at port 9005
+Node 6 receiver started at port 9006
+Node 7 receiver started at port 9007
+Node 8 receiver started at port 9008
+Node 9 receiver started at port 9009
+Node 10 receiver started at port 9010
+Node 11 receiver started at port 9011
+Node 0 sender started with 3 peers
+Node 1 sender started with 3 peers
+Node 2 sender started with 3 peers
+Node 3 sender started with 3 peers
+Node 4 sender started with 3 peers
+Node 5 sender started with 2 peers
+Node 6 sender started with 3 peers
+Node 7 sender started with 3 peers
+Node 8 sender started with 3 peers
+Node 9 sender started with 3 peers
+Node 10 sender started with 3 peers
+Node 11 sender started with 2 peers
+Node 0 attempting to send share at time 2s
+Node 0 successfully sent share #0 to peer at 10.1.7.2:9006
+Node 1 attempting to send share at time 2s
+Node 1 successfully sent share #0 to peer at 10.2.1.2:9000
+Node 2 attempting to send share at time 2s
+Node 2 successfully sent share #0 to peer at 10.3.11.2:9010
+Node 3 attempting to send share at time 2s
+Node 3 successfully sent share #0 to peer at 10.4.9.2:9008
+Node 4 attempting to send share at time 2s
+Node 4 successfully sent share #0 to peer at 10.5.10.2:9009
+Node 5 attempting to send share at time 2s
+Node 5 successfully sent share #0 to peer at 10.6.11.2:9010
+Node 6 attempting to send share at time 2s
+Node 6 successfully sent share #0 to peer at 10.7.12.2:9011
+Node 7 attempting to send share at time 2s
+Node 7 successfully sent share #0 to peer at 10.8.4.2:9003
+Node 8 attempting to send share at time 2s
+Node 8 successfully sent share #0 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 2s
+Node 9 successfully sent share #0 to peer at 10.10.7.2:9006
+Node 10 attempting to send share at time 2s
+Node 10 successfully sent share #0 to peer at 10.11.4.2:9003
+Node 11 attempting to send share at time 2s
+Node 11 successfully sent share #0 to peer at 10.12.10.2:9009
+Node 6 received share: "SHARE_0_0_2" from 10.1.7.1:49153 at time 2.01007s
+Node 0 received share: "SHARE_1_0_2" from 10.2.1.1:49153 at time 2.01007s
+Node 10 received share: "SHARE_2_0_2" from 10.3.11.1:49153 at time 2.01007s
+Node 8 received share: "SHARE_3_0_2" from 10.4.9.1:49153 at time 2.01007s
+Node 9 received share: "SHARE_4_0_2" from 10.5.10.1:49153 at time 2.01007s
+Node 10 received share: "SHARE_5_0_2" from 10.6.11.1:49153 at time 2.01007s
+Node 11 received share: "SHARE_6_0_2" from 10.7.12.1:49153 at time 2.01007s
+Node 3 received share: "SHARE_7_0_2" from 10.8.4.1:49153 at time 2.01007s
+Node 1 received share: "SHARE_8_0_2" from 10.9.2.1:49153 at time 2.01007s
+Node 6 received share: "SHARE_9_0_2" from 10.10.7.1:49153 at time 2.01007s
+Node 3 received share: "SHARE_10_0_2" from 10.11.4.1:49153 at time 2.01007s
+Node 9 received share: "SHARE_11_0_2" from 10.12.10.1:49153 at time 2.01007s
+Node 0 attempting to send share at time 4s
+Node 0 successfully sent share #1 to peer at 10.1.7.2:9006
+Node 1 attempting to send share at time 4s
+Node 1 successfully sent share #1 to peer at 10.2.6.2:9005
+Node 2 attempting to send share at time 4s
+Node 2 successfully sent share #1 to peer at 10.3.8.2:9007
+Node 3 attempting to send share at time 4s
+Node 3 successfully sent share #1 to peer at 10.4.9.2:9008
+Node 4 attempting to send share at time 4s
+Node 4 successfully sent share #1 to peer at 10.5.10.2:9009
+Node 5 attempting to send share at time 4s
+Node 5 successfully sent share #1 to peer at 10.6.10.2:9009
+Node 6 attempting to send share at time 4s
+Node 6 successfully sent share #1 to peer at 10.7.12.2:9011
+Node 7 attempting to send share at time 4s
+Node 7 successfully sent share #1 to peer at 10.8.6.2:9005
+Node 8 attempting to send share at time 4s
+Node 8 successfully sent share #1 to peer at 10.9.6.2:9005
+Node 9 attempting to send share at time 4s
+Node 9 successfully sent share #1 to peer at 10.10.7.2:9006
+Node 10 attempting to send share at time 4s
+Node 10 successfully sent share #1 to peer at 10.11.4.2:9003
+Node 11 attempting to send share at time 4s
+Node 11 successfully sent share #1 to peer at 10.12.2.2:9001
+Node 6 received share: "SHARE_0_1_4" from 10.1.7.1:49153 at time 4.01007s
+Node 5 received share: "SHARE_1_1_4" from 10.2.6.1:49153 at time 4.01007s
+Node 7 received share: "SHARE_2_1_4" from 10.3.8.1:49153 at time 4.01007s
+Node 8 received share: "SHARE_3_1_4" from 10.4.9.1:49153 at time 4.01007s
+Node 9 received share: "SHARE_4_1_4" from 10.5.10.1:49153 at time 4.01007s
+Node 9 received share: "SHARE_5_1_4" from 10.6.10.1:49153 at time 4.01007s
+Node 11 received share: "SHARE_6_1_4" from 10.7.12.1:49153 at time 4.01007s
+Node 5 received share: "SHARE_7_1_4" from 10.8.6.1:49153 at time 4.01007s
+Node 5 received share: "SHARE_8_1_4" from 10.9.6.1:49153 at time 4.01007s
+Node 6 received share: "SHARE_9_1_4" from 10.10.7.1:49153 at time 4.01007s
+Node 3 received share: "SHARE_10_1_4" from 10.11.4.1:49153 at time 4.01007s
+Node 1 received share: "SHARE_11_1_4" from 10.12.2.1:49153 at time 4.01007s
+Node 0 attempting to send share at time 6s
+Node 0 successfully sent share #2 to peer at 10.1.6.2:9005
+Node 1 attempting to send share at time 6s
+Node 1 successfully sent share #2 to peer at 10.2.6.2:9005
+Node 2 attempting to send share at time 6s
+Node 2 successfully sent share #2 to peer at 10.3.11.2:9010
+Node 3 attempting to send share at time 6s
+Node 3 successfully sent share #2 to peer at 10.4.9.2:9008
+Node 4 attempting to send share at time 6s
+Node 4 successfully sent share #2 to peer at 10.5.6.2:9005
+Node 5 attempting to send share at time 6s
+Node 5 successfully sent share #2 to peer at 10.6.11.2:9010
+Node 6 attempting to send share at time 6s
+Node 6 successfully sent share #2 to peer at 10.7.12.2:9011
+Node 7 attempting to send share at time 6s
+Node 7 successfully sent share #2 to peer at 10.8.9.2:9008
+Node 8 attempting to send share at time 6s
+Node 8 successfully sent share #2 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 6s
+Node 9 successfully sent share #2 to peer at 10.10.1.2:9000
+Node 10 attempting to send share at time 6s
+Node 10 successfully sent share #2 to peer at 10.11.4.2:9003
+Node 11 attempting to send share at time 6s
+Node 11 successfully sent share #2 to peer at 10.12.10.2:9009
+Node 5 received share: "SHARE_0_2_6" from 10.1.6.1:49153 at time 6.01007s
+Node 5 received share: "SHARE_1_2_6" from 10.2.6.1:49153 at time 6.01007s
+Node 10 received share: "SHARE_2_2_6" from 10.3.11.1:49153 at time 6.01007s
+Node 8 received share: "SHARE_3_2_6" from 10.4.9.1:49153 at time 6.01007s
+Node 5 received share: "SHARE_4_2_6" from 10.5.6.1:49153 at time 6.01007s
+Node 10 received share: "SHARE_5_2_6" from 10.6.11.1:49153 at time 6.01007s
+Node 11 received share: "SHARE_6_2_6" from 10.7.12.1:49153 at time 6.01007s
+Node 8 received share: "SHARE_7_2_6" from 10.8.9.1:49153 at time 6.01007s
+Node 1 received share: "SHARE_8_2_6" from 10.9.2.1:49153 at time 6.01007s
+Node 0 received share: "SHARE_9_2_6" from 10.10.1.1:49153 at time 6.01007s
+Node 3 received share: "SHARE_10_2_6" from 10.11.4.1:49153 at time 6.01007s
+Node 9 received share: "SHARE_11_2_6" from 10.12.10.1:49153 at time 6.01007s
+Node 0 attempting to send share at time 8s
+Node 0 successfully sent share #3 to peer at 10.1.6.2:9005
+Node 1 attempting to send share at time 8s
+Node 1 successfully sent share #3 to peer at 10.2.6.2:9005
+Node 2 attempting to send share at time 8s
+Node 2 successfully sent share #3 to peer at 10.3.8.2:9007
+Node 3 attempting to send share at time 8s
+Node 3 successfully sent share #3 to peer at 10.4.12.2:9011
+Node 4 attempting to send share at time 8s
+Node 4 successfully sent share #3 to peer at 10.5.4.2:9003
+Node 5 attempting to send share at time 8s
+Node 5 successfully sent share #3 to peer at 10.6.10.2:9009
+Node 6 attempting to send share at time 8s
+Node 6 successfully sent share #3 to peer at 10.7.4.2:9003
+Node 7 attempting to send share at time 8s
+Node 7 successfully sent share #3 to peer at 10.8.6.2:9005
+Node 8 attempting to send share at time 8s
+Node 8 successfully sent share #3 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 8s
+Node 9 successfully sent share #3 to peer at 10.10.1.2:9000
+Node 10 attempting to send share at time 8s
+Node 10 successfully sent share #3 to peer at 10.11.2.2:9001
+Node 11 attempting to send share at time 8s
+Node 11 successfully sent share #3 to peer at 10.12.10.2:9009
+Node 5 received share: "SHARE_0_3_8" from 10.1.6.1:49153 at time 8.01007s
+Node 5 received share: "SHARE_1_3_8" from 10.2.6.1:49153 at time 8.01007s
+Node 7 received share: "SHARE_2_3_8" from 10.3.8.1:49153 at time 8.01007s
+Node 11 received share: "SHARE_3_3_8" from 10.4.12.1:49153 at time 8.01007s
+Node 3 received share: "SHARE_4_3_8" from 10.5.4.1:49153 at time 8.01007s
+Node 9 received share: "SHARE_5_3_8" from 10.6.10.1:49153 at time 8.01007s
+Node 3 received share: "SHARE_6_3_8" from 10.7.4.1:49153 at time 8.01007s
+Node 5 received share: "SHARE_7_3_8" from 10.8.6.1:49153 at time 8.01007s
+Node 1 received share: "SHARE_8_3_8" from 10.9.2.1:49153 at time 8.01007s
+Node 0 received share: "SHARE_9_3_8" from 10.10.1.1:49153 at time 8.01007s
+Node 1 received share: "SHARE_10_3_8" from 10.11.2.1:49153 at time 8.01007s
+Node 9 received share: "SHARE_11_3_8" from 10.12.10.1:49153 at time 8.01007s
+Node 0 attempting to send share at time 10s
+Node 0 successfully sent share #4 to peer at 10.1.7.2:9006
+Node 1 attempting to send share at time 10s
+Node 1 successfully sent share #4 to peer at 10.2.6.2:9005
+Node 2 attempting to send share at time 10s
+Node 2 successfully sent share #4 to peer at 10.3.8.2:9007
+Node 3 attempting to send share at time 10s
+Node 3 successfully sent share #4 to peer at 10.4.12.2:9011
+Node 4 attempting to send share at time 10s
+Node 4 successfully sent share #4 to peer at 10.5.6.2:9005
+Node 5 attempting to send share at time 10s
+Node 5 successfully sent share #4 to peer at 10.6.11.2:9010
+Node 6 attempting to send share at time 10s
+Node 6 successfully sent share #4 to peer at 10.7.4.2:9003
+Node 7 attempting to send share at time 10s
+Node 7 successfully sent share #4 to peer at 10.8.6.2:9005
+Node 8 attempting to send share at time 10s
+Node 8 successfully sent share #4 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 10s
+Node 9 successfully sent share #4 to peer at 10.10.1.2:9000
+Node 10 attempting to send share at time 10s
+Node 10 successfully sent share #4 to peer at 10.11.4.2:9003
+Node 11 attempting to send share at time 10s
+Node 11 successfully sent share #4 to peer at 10.12.10.2:9009
+Node 6 received share: "SHARE_0_4_10" from 10.1.7.1:49153 at time 10.0101s
+Node 5 received share: "SHARE_1_4_10" from 10.2.6.1:49153 at time 10.0101s
+Node 7 received share: "SHARE_2_4_10" from 10.3.8.1:49153 at time 10.0101s
+Node 11 received share: "SHARE_3_4_10" from 10.4.12.1:49153 at time 10.0101s
+Node 5 received share: "SHARE_4_4_10" from 10.5.6.1:49153 at time 10.0101s
+Node 10 received share: "SHARE_5_4_10" from 10.6.11.1:49153 at time 10.0101s
+Node 3 received share: "SHARE_6_4_10" from 10.7.4.1:49153 at time 10.0101s
+Node 5 received share: "SHARE_7_4_10" from 10.8.6.1:49153 at time 10.0101s
+Node 1 received share: "SHARE_8_4_10" from 10.9.2.1:49153 at time 10.0101s
+Node 0 received share: "SHARE_9_4_10" from 10.10.1.1:49153 at time 10.0101s
+Node 3 received share: "SHARE_10_4_10" from 10.11.4.1:49153 at time 10.0101s
+Node 9 received share: "SHARE_11_4_10" from 10.12.10.1:49153 at time 10.0101s
+Node 0 attempting to send share at time 12s
+Node 0 successfully sent share #5 to peer at 10.1.6.2:9005
+Node 1 attempting to send share at time 12s
+Node 1 successfully sent share #5 to peer at 10.2.6.2:9005
+Node 2 attempting to send share at time 12s
+Node 2 successfully sent share #5 to peer at 10.3.8.2:9007
+Node 3 attempting to send share at time 12s
+Node 3 successfully sent share #5 to peer at 10.4.12.2:9011
+Node 4 attempting to send share at time 12s
+Node 4 successfully sent share #5 to peer at 10.5.10.2:9009
+Node 5 attempting to send share at time 12s
+Node 5 successfully sent share #5 to peer at 10.6.10.2:9009
+Node 6 attempting to send share at time 12s
+Node 6 successfully sent share #5 to peer at 10.7.3.2:9002
+Node 7 attempting to send share at time 12s
+Node 7 successfully sent share #5 to peer at 10.8.6.2:9005
+Node 8 attempting to send share at time 12s
+Node 8 successfully sent share #5 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 12s
+Node 9 successfully sent share #5 to peer at 10.10.8.2:9007
+Node 10 attempting to send share at time 12s
+Node 10 successfully sent share #5 to peer at 10.11.7.2:9006
+Node 11 attempting to send share at time 12s
+Node 11 successfully sent share #5 to peer at 10.12.2.2:9001
+Node 5 received share: "SHARE_0_5_12" from 10.1.6.1:49153 at time 12.0101s
+Node 5 received share: "SHARE_1_5_12" from 10.2.6.1:49153 at time 12.0101s
+Node 7 received share: "SHARE_2_5_12" from 10.3.8.1:49153 at time 12.0101s
+Node 11 received share: "SHARE_3_5_12" from 10.4.12.1:49153 at time 12.0101s
+Node 9 received share: "SHARE_4_5_12" from 10.5.10.1:49153 at time 12.0101s
+Node 9 received share: "SHARE_5_5_12" from 10.6.10.1:49153 at time 12.0101s
+Node 2 received share: "SHARE_6_5_12" from 10.7.3.1:49153 at time 12.0101s
+Node 5 received share: "SHARE_7_5_12" from 10.8.6.1:49153 at time 12.0101s
+Node 1 received share: "SHARE_8_5_12" from 10.9.2.1:49153 at time 12.0101s
+Node 7 received share: "SHARE_9_5_12" from 10.10.8.1:49153 at time 12.0101s
+Node 6 received share: "SHARE_10_5_12" from 10.11.7.1:49153 at time 12.0101s
+Node 1 received share: "SHARE_11_5_12" from 10.12.2.1:49153 at time 12.0101s
+Node 0 attempting to send share at time 14s
+Node 0 successfully sent share #6 to peer at 10.1.6.2:9005
+Node 1 attempting to send share at time 14s
+Node 1 successfully sent share #6 to peer at 10.2.8.2:9007
+Node 2 attempting to send share at time 14s
+Node 2 successfully sent share #6 to peer at 10.3.8.2:9007
+Node 3 attempting to send share at time 14s
+Node 3 successfully sent share #6 to peer at 10.4.12.2:9011
+Node 4 attempting to send share at time 14s
+Node 4 successfully sent share #6 to peer at 10.5.4.2:9003
+Node 5 attempting to send share at time 14s
+Node 5 successfully sent share #6 to peer at 10.6.10.2:9009
+Node 6 attempting to send share at time 14s
+Node 6 successfully sent share #6 to peer at 10.7.3.2:9002
+Node 7 attempting to send share at time 14s
+Node 7 successfully sent share #6 to peer at 10.8.4.2:9003
+Node 8 attempting to send share at time 14s
+Node 8 successfully sent share #6 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 14s
+Node 9 successfully sent share #6 to peer at 10.10.8.2:9007
+Node 10 attempting to send share at time 14s
+Node 10 successfully sent share #6 to peer at 10.11.2.2:9001
+Node 11 attempting to send share at time 14s
+Node 11 successfully sent share #6 to peer at 10.12.2.2:9001
+Node 5 received share: "SHARE_0_6_14" from 10.1.6.1:49153 at time 14.0101s
+Node 7 received share: "SHARE_1_6_14" from 10.2.8.1:49153 at time 14.0101s
+Node 7 received share: "SHARE_2_6_14" from 10.3.8.1:49153 at time 14.0101s
+Node 11 received share: "SHARE_3_6_14" from 10.4.12.1:49153 at time 14.0101s
+Node 3 received share: "SHARE_4_6_14" from 10.5.4.1:49153 at time 14.0101s
+Node 9 received share: "SHARE_5_6_14" from 10.6.10.1:49153 at time 14.0101s
+Node 2 received share: "SHARE_6_6_14" from 10.7.3.1:49153 at time 14.0101s
+Node 3 received share: "SHARE_7_6_14" from 10.8.4.1:49153 at time 14.0101s
+Node 1 received share: "SHARE_8_6_14" from 10.9.2.1:49153 at time 14.0101s
+Node 7 received share: "SHARE_9_6_14" from 10.10.8.1:49153 at time 14.0101s
+Node 1 received share: "SHARE_10_6_14" from 10.11.2.1:49153 at time 14.0101s
+Node 1 received share: "SHARE_11_6_14" from 10.12.2.1:49153 at time 14.0101s
+Node 0 attempting to send share at time 16s
+Node 0 successfully sent share #7 to peer at 10.1.6.2:9005
+Node 1 attempting to send share at time 16s
+Node 1 successfully sent share #7 to peer at 10.2.8.2:9007
+Node 2 attempting to send share at time 16s
+Node 2 successfully sent share #7 to peer at 10.3.11.2:9010
+Node 3 attempting to send share at time 16s
+Node 3 successfully sent share #7 to peer at 10.4.6.2:9005
+Node 4 attempting to send share at time 16s
+Node 4 successfully sent share #7 to peer at 10.5.6.2:9005
+Node 5 attempting to send share at time 16s
+Node 5 successfully sent share #7 to peer at 10.6.10.2:9009
+Node 6 attempting to send share at time 16s
+Node 6 successfully sent share #7 to peer at 10.7.3.2:9002
+Node 7 attempting to send share at time 16s
+Node 7 successfully sent share #7 to peer at 10.8.4.2:9003
+Node 8 attempting to send share at time 16s
+Node 8 successfully sent share #7 to peer at 10.9.10.2:9009
+Node 9 attempting to send share at time 16s
+Node 9 successfully sent share #7 to peer at 10.10.8.2:9007
+Node 10 attempting to send share at time 16s
+Node 10 successfully sent share #7 to peer at 10.11.4.2:9003
+Node 11 attempting to send share at time 16s
+Node 11 successfully sent share #7 to peer at 10.12.10.2:9009
+Node 5 received share: "SHARE_0_7_16" from 10.1.6.1:49153 at time 16.0101s
+Node 7 received share: "SHARE_1_7_16" from 10.2.8.1:49153 at time 16.0101s
+Node 10 received share: "SHARE_2_7_16" from 10.3.11.1:49153 at time 16.0101s
+Node 5 received share: "SHARE_3_7_16" from 10.4.6.1:49153 at time 16.0101s
+Node 5 received share: "SHARE_4_7_16" from 10.5.6.1:49153 at time 16.0101s
+Node 9 received share: "SHARE_5_7_16" from 10.6.10.1:49153 at time 16.0101s
+Node 2 received share: "SHARE_6_7_16" from 10.7.3.1:49153 at time 16.0101s
+Node 3 received share: "SHARE_7_7_16" from 10.8.4.1:49153 at time 16.0101s
+Node 9 received share: "SHARE_8_7_16" from 10.9.10.1:49153 at time 16.0101s
+Node 7 received share: "SHARE_9_7_16" from 10.10.8.1:49153 at time 16.0101s
+Node 3 received share: "SHARE_10_7_16" from 10.11.4.1:49153 at time 16.0101s
+Node 9 received share: "SHARE_11_7_16" from 10.12.10.1:49153 at time 16.0101s
+Node 0 attempting to send share at time 18s
+Node 0 successfully sent share #8 to peer at 10.1.6.2:9005
+Node 1 attempting to send share at time 18s
+Node 1 successfully sent share #8 to peer at 10.2.6.2:9005
+Node 2 attempting to send share at time 18s
+Node 2 successfully sent share #8 to peer at 10.3.11.2:9010
+Node 3 attempting to send share at time 18s
+Node 3 successfully sent share #8 to peer at 10.4.6.2:9005
+Node 4 attempting to send share at time 18s
+Node 4 successfully sent share #8 to peer at 10.5.6.2:9005
+Node 5 attempting to send share at time 18s
+Node 5 successfully sent share #8 to peer at 10.6.11.2:9010
+Node 6 attempting to send share at time 18s
+Node 6 successfully sent share #8 to peer at 10.7.3.2:9002
+Node 7 attempting to send share at time 18s
+Node 7 successfully sent share #8 to peer at 10.8.6.2:9005
+Node 8 attempting to send share at time 18s
+Node 8 successfully sent share #8 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 18s
+Node 9 successfully sent share #8 to peer at 10.10.7.2:9006
+Node 10 attempting to send share at time 18s
+Node 10 successfully sent share #8 to peer at 10.11.7.2:9006
+Node 11 attempting to send share at time 18s
+Node 11 successfully sent share #8 to peer at 10.12.10.2:9009
+Node 5 received share: "SHARE_0_8_18" from 10.1.6.1:49153 at time 18.0101s
+Node 5 received share: "SHARE_1_8_18" from 10.2.6.1:49153 at time 18.0101s
+Node 10 received share: "SHARE_2_8_18" from 10.3.11.1:49153 at time 18.0101s
+Node 5 received share: "SHARE_3_8_18" from 10.4.6.1:49153 at time 18.0101s
+Node 5 received share: "SHARE_4_8_18" from 10.5.6.1:49153 at time 18.0101s
+Node 10 received share: "SHARE_5_8_18" from 10.6.11.1:49153 at time 18.0101s
+Node 2 received share: "SHARE_6_8_18" from 10.7.3.1:49153 at time 18.0101s
+Node 5 received share: "SHARE_7_8_18" from 10.8.6.1:49153 at time 18.0101s
+Node 1 received share: "SHARE_8_8_18" from 10.9.2.1:49153 at time 18.0101s
+Node 6 received share: "SHARE_9_8_18" from 10.10.7.1:49153 at time 18.0101s
+Node 6 received share: "SHARE_10_8_18" from 10.11.7.1:49153 at time 18.0101s
+Node 9 received share: "SHARE_11_8_18" from 10.12.10.1:49153 at time 18.0101s
+Node 0 attempting to send share at time 20s
+Node 0 successfully sent share #9 to peer at 10.1.7.2:9006
+Node 1 attempting to send share at time 20s
+Node 1 successfully sent share #9 to peer at 10.2.6.2:9005
+Node 2 attempting to send share at time 20s
+Node 2 successfully sent share #9 to peer at 10.3.1.2:9000
+Node 3 attempting to send share at time 20s
+Node 3 successfully sent share #9 to peer at 10.4.6.2:9005
+Node 4 attempting to send share at time 20s
+Node 4 successfully sent share #9 to peer at 10.5.6.2:9005
+Node 5 attempting to send share at time 20s
+Node 5 successfully sent share #9 to peer at 10.6.10.2:9009
+Node 6 attempting to send share at time 20s
+Node 6 successfully sent share #9 to peer at 10.7.4.2:9003
+Node 7 attempting to send share at time 20s
+Node 7 successfully sent share #9 to peer at 10.8.6.2:9005
+Node 8 attempting to send share at time 20s
+Node 8 successfully sent share #9 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 20s
+Node 9 successfully sent share #9 to peer at 10.10.8.2:9007
+Node 10 attempting to send share at time 20s
+Node 10 successfully sent share #9 to peer at 10.11.4.2:9003
+Node 11 attempting to send share at time 20s
+Node 11 successfully sent share #9 to peer at 10.12.10.2:9009
+Node 6 received share: "SHARE_0_9_20" from 10.1.7.1:49153 at time 20.0101s
+Node 5 received share: "SHARE_1_9_20" from 10.2.6.1:49153 at time 20.0101s
+Node 0 received share: "SHARE_2_9_20" from 10.3.1.1:49153 at time 20.0101s
+Node 5 received share: "SHARE_3_9_20" from 10.4.6.1:49153 at time 20.0101s
+Node 5 received share: "SHARE_4_9_20" from 10.5.6.1:49153 at time 20.0101s
+Node 9 received share: "SHARE_5_9_20" from 10.6.10.1:49153 at time 20.0101s
+Node 3 received share: "SHARE_6_9_20" from 10.7.4.1:49153 at time 20.0101s
+Node 5 received share: "SHARE_7_9_20" from 10.8.6.1:49153 at time 20.0101s
+Node 1 received share: "SHARE_8_9_20" from 10.9.2.1:49153 at time 20.0101s
+Node 7 received share: "SHARE_9_9_20" from 10.10.8.1:49153 at time 20.0101s
+Node 3 received share: "SHARE_10_9_20" from 10.11.4.1:49153 at time 20.0101s
+Node 9 received share: "SHARE_11_9_20" from 10.12.10.1:49153 at time 20.0101s
+Node 0 attempting to send share at time 22s
+Node 0 successfully sent share #10 to peer at 10.1.6.2:9005
+Node 1 attempting to send share at time 22s
+Node 1 successfully sent share #10 to peer at 10.2.1.2:9000
+Node 2 attempting to send share at time 22s
+Node 2 successfully sent share #10 to peer at 10.3.11.2:9010
+Node 3 attempting to send share at time 22s
+Node 3 successfully sent share #10 to peer at 10.4.9.2:9008
+Node 4 attempting to send share at time 22s
+Node 4 successfully sent share #10 to peer at 10.5.10.2:9009
+Node 5 attempting to send share at time 22s
+Node 5 successfully sent share #10 to peer at 10.6.10.2:9009
+Node 6 attempting to send share at time 22s
+Node 6 successfully sent share #10 to peer at 10.7.3.2:9002
+Node 7 attempting to send share at time 22s
+Node 7 successfully sent share #10 to peer at 10.8.6.2:9005
+Node 8 attempting to send share at time 22s
+Node 8 successfully sent share #10 to peer at 10.9.6.2:9005
+Node 9 attempting to send share at time 22s
+Node 9 successfully sent share #10 to peer at 10.10.8.2:9007
+Node 10 attempting to send share at time 22s
+Node 10 successfully sent share #10 to peer at 10.11.7.2:9006
+Node 11 attempting to send share at time 22s
+Node 11 successfully sent share #10 to peer at 10.12.10.2:9009
+Node 5 received share: "SHARE_0_10_22" from 10.1.6.1:49153 at time 22.0101s
+Node 0 received share: "SHARE_1_10_22" from 10.2.1.1:49153 at time 22.0101s
+Node 10 received share: "SHARE_2_10_22" from 10.3.11.1:49153 at time 22.0101s
+Node 8 received share: "SHARE_3_10_22" from 10.4.9.1:49153 at time 22.0101s
+Node 9 received share: "SHARE_4_10_22" from 10.5.10.1:49153 at time 22.0101s
+Node 9 received share: "SHARE_5_10_22" from 10.6.10.1:49153 at time 22.0101s
+Node 2 received share: "SHARE_6_10_22" from 10.7.3.1:49153 at time 22.0101s
+Node 5 received share: "SHARE_7_10_22" from 10.8.6.1:49153 at time 22.0101s
+Node 5 received share: "SHARE_8_10_22" from 10.9.6.1:49153 at time 22.0101s
+Node 7 received share: "SHARE_9_10_22" from 10.10.8.1:49153 at time 22.0101s
+Node 6 received share: "SHARE_10_10_22" from 10.11.7.1:49153 at time 22.0101s
+Node 9 received share: "SHARE_11_10_22" from 10.12.10.1:49153 at time 22.0101s
+Node 0 attempting to send share at time 24s
+Node 0 successfully sent share #11 to peer at 10.1.8.2:9007
+Node 1 attempting to send share at time 24s
+Node 1 successfully sent share #11 to peer at 10.2.8.2:9007
+Node 2 attempting to send share at time 24s
+Node 2 successfully sent share #11 to peer at 10.3.11.2:9010
+Node 3 attempting to send share at time 24s
+Node 3 successfully sent share #11 to peer at 10.4.9.2:9008
+Node 4 attempting to send share at time 24s
+Node 4 successfully sent share #11 to peer at 10.5.10.2:9009
+Node 5 attempting to send share at time 24s
+Node 5 successfully sent share #11 to peer at 10.6.10.2:9009
+Node 6 attempting to send share at time 24s
+Node 6 successfully sent share #11 to peer at 10.7.12.2:9011
+Node 7 attempting to send share at time 24s
+Node 7 successfully sent share #11 to peer at 10.8.9.2:9008
+Node 8 attempting to send share at time 24s
+Node 8 successfully sent share #11 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 24s
+Node 9 successfully sent share #11 to peer at 10.10.1.2:9000
+Node 10 attempting to send share at time 24s
+Node 10 successfully sent share #11 to peer at 10.11.7.2:9006
+Node 11 attempting to send share at time 24s
+Node 11 successfully sent share #11 to peer at 10.12.10.2:9009
+Node 7 received share: "SHARE_0_11_24" from 10.1.8.1:49153 at time 24.0101s
+Node 7 received share: "SHARE_1_11_24" from 10.2.8.1:49153 at time 24.0101s
+Node 10 received share: "SHARE_2_11_24" from 10.3.11.1:49153 at time 24.0101s
+Node 8 received share: "SHARE_3_11_24" from 10.4.9.1:49153 at time 24.0101s
+Node 9 received share: "SHARE_4_11_24" from 10.5.10.1:49153 at time 24.0101s
+Node 9 received share: "SHARE_5_11_24" from 10.6.10.1:49153 at time 24.0101s
+Node 11 received share: "SHARE_6_11_24" from 10.7.12.1:49153 at time 24.0101s
+Node 8 received share: "SHARE_7_11_24" from 10.8.9.1:49153 at time 24.0101s
+Node 1 received share: "SHARE_8_11_24" from 10.9.2.1:49153 at time 24.0101s
+Node 0 received share: "SHARE_9_11_24" from 10.10.1.1:49153 at time 24.0101s
+Node 6 received share: "SHARE_10_11_24" from 10.11.7.1:49153 at time 24.0101s
+Node 9 received share: "SHARE_11_11_24" from 10.12.10.1:49153 at time 24.0101s
+Node 0 attempting to send share at time 26s
+Node 0 successfully sent share #12 to peer at 10.1.7.2:9006
+Node 1 attempting to send share at time 26s
+Node 1 successfully sent share #12 to peer at 10.2.1.2:9000
+Node 2 attempting to send share at time 26s
+Node 2 successfully sent share #12 to peer at 10.3.8.2:9007
+Node 3 attempting to send share at time 26s
+Node 3 successfully sent share #12 to peer at 10.4.9.2:9008
+Node 4 attempting to send share at time 26s
+Node 4 successfully sent share #12 to peer at 10.5.10.2:9009
+Node 5 attempting to send share at time 26s
+Node 5 successfully sent share #12 to peer at 10.6.10.2:9009
+Node 6 attempting to send share at time 26s
+Node 6 successfully sent share #12 to peer at 10.7.12.2:9011
+Node 7 attempting to send share at time 26s
+Node 7 successfully sent share #12 to peer at 10.8.4.2:9003
+Node 8 attempting to send share at time 26s
+Node 8 successfully sent share #12 to peer at 10.9.2.2:9001
+Node 9 attempting to send share at time 26s
+Node 9 successfully sent share #12 to peer at 10.10.7.2:9006
+Node 10 attempting to send share at time 26s
+Node 10 successfully sent share #12 to peer at 10.11.7.2:9006
+Node 11 attempting to send share at time 26s
+Node 11 successfully sent share #12 to peer at 10.12.2.2:9001
+Node 6 received share: "SHARE_0_12_26" from 10.1.7.1:49153 at time 26.0101s
+Node 0 received share: "SHARE_1_12_26" from 10.2.1.1:49153 at time 26.0101s
+Node 7 received share: "SHARE_2_12_26" from 10.3.8.1:49153 at time 26.0101s
+Node 8 received share: "SHARE_3_12_26" from 10.4.9.1:49153 at time 26.0101s
+Node 9 received share: "SHARE_4_12_26" from 10.5.10.1:49153 at time 26.0101s
+Node 9 received share: "SHARE_5_12_26" from 10.6.10.1:49153 at time 26.0101s
+Node 11 received share: "SHARE_6_12_26" from 10.7.12.1:49153 at time 26.0101s
+Node 3 received share: "SHARE_7_12_26" from 10.8.4.1:49153 at time 26.0101s
+Node 1 received share: "SHARE_8_12_26" from 10.9.2.1:49153 at time 26.0101s
+Node 6 received share: "SHARE_9_12_26" from 10.10.7.1:49153 at time 26.0101s
+Node 6 received share: "SHARE_10_12_26" from 10.11.7.1:49153 at time 26.0101s
+Node 1 received share: "SHARE_11_12_26" from 10.12.2.1:49153 at time 26.0101s
+Node 0 attempting to send share at time 28s
+Node 0 successfully sent share #13 to peer at 10.1.6.2:9005
+Node 1 attempting to send share at time 28s
+Node 1 successfully sent share #13 to peer at 10.2.1.2:9000
+Node 2 attempting to send share at time 28s
+Node 2 successfully sent share #13 to peer at 10.3.8.2:9007
+Node 3 attempting to send share at time 28s
+Node 3 successfully sent share #13 to peer at 10.4.9.2:9008
+Node 4 attempting to send share at time 28s
+Node 4 successfully sent share #13 to peer at 10.5.10.2:9009
+Node 5 attempting to send share at time 28s
+Node 5 successfully sent share #13 to peer at 10.6.11.2:9010
+Node 6 attempting to send share at time 28s
+Node 6 successfully sent share #13 to peer at 10.7.3.2:9002
+Node 7 attempting to send share at time 28s
+Node 7 successfully sent share #13 to peer at 10.8.9.2:9008
+Node 8 attempting to send share at time 28s
+Node 8 successfully sent share #13 to peer at 10.9.6.2:9005
+Node 9 attempting to send share at time 28s
+Node 9 successfully sent share #13 to peer at 10.10.8.2:9007
+Node 10 attempting to send share at time 28s
+Node 10 successfully sent share #13 to peer at 10.11.2.2:9001
+Node 11 attempting to send share at time 28s
+Node 11 successfully sent share #13 to peer at 10.12.10.2:9009
+Node 5 received share: "SHARE_0_13_28" from 10.1.6.1:49153 at time 28.0101s
+Node 0 received share: "SHARE_1_13_28" from 10.2.1.1:49153 at time 28.0101s
+Node 7 received share: "SHARE_2_13_28" from 10.3.8.1:49153 at time 28.0101s
+Node 8 received share: "SHARE_3_13_28" from 10.4.9.1:49153 at time 28.0101s
+Node 9 received share: "SHARE_4_13_28" from 10.5.10.1:49153 at time 28.0101s
+Node 10 received share: "SHARE_5_13_28" from 10.6.11.1:49153 at time 28.0101s
+Node 2 received share: "SHARE_6_13_28" from 10.7.3.1:49153 at time 28.0101s
+Node 8 received share: "SHARE_7_13_28" from 10.8.9.1:49153 at time 28.0101s
+Node 5 received share: "SHARE_8_13_28" from 10.9.6.1:49153 at time 28.0101s
+Node 7 received share: "SHARE_9_13_28" from 10.10.8.1:49153 at time 28.0101s
+Node 1 received share: "SHARE_10_13_28" from 10.11.2.1:49153 at time 28.0101s
+Node 9 received share: "SHARE_11_13_28" from 10.12.10.1:49153 at time 28.0101s
+Node 0 receiver stopped after receiving 9 packets
+Node 0 sender stopped after sending 14 packets
+Node 1 receiver stopped after receiving 17 packets
+Node 1 sender stopped after sending 14 packets
+Node 2 receiver stopped after receiving 6 packets
+Node 2 sender stopped after sending 14 packets
+Node 3 receiver stopped after receiving 15 packets
+Node 3 sender stopped after sending 14 packets
+Node 4 receiver stopped after receiving 0 packets
+Node 4 sender stopped after sending 14 packets
+Node 5 receiver stopped after receiving 33 packets
+Node 5 sender stopped after sending 14 packets
+Node 6 receiver stopped after receiving 14 packets
+Node 6 sender stopped after sending 14 packets
+Node 7 receiver stopped after receiving 17 packets
+Node 7 sender stopped after sending 14 packets
+Node 8 receiver stopped after receiving 10 packets
+Node 8 sender stopped after sending 14 packets
+Node 9 receiver stopped after receiving 27 packets
+Node 9 sender stopped after sending 14 packets
+Node 10 receiver stopped after receiving 11 packets
+Node 10 sender stopped after sending 14 packets
+Node 11 receiver stopped after receiving 9 packets
+Node 11 sender stopped after sending 14 packets
+Simulation completed successfully.
