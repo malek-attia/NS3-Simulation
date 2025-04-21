@@ -14,7 +14,9 @@ The simulation creates a configurable P2P network with the following features:
 
 ## Video Demonstration
 A video demonstration of the simulation using NS-3's NetAnim visualizer
+
 [(demo)](https://github.com/user-attachments/assets/b9ad845a-199b-4a2b-8f32-22759f74dcb3)
+
 The visualization shows:
 - The network topology with connected peers
 - Share message propagation across the network
